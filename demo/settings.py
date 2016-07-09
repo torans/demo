@@ -89,8 +89,8 @@ ITEM_PIPELINES = {
     'demo.pipelines.MySQLStoreCnblogsPipeline': 300,
 }
 # start MySQL database configure setting
-MYSQL_HOST = '121.40.76.129'
+MYSQL_HOST = '127.0.0.1'
 MYSQL_DBNAME = 'websites'
 MYSQL_USER = 'root'
-MYSQL_PASSWD = 'ranjun5607800'
+MYSQL_PASSWD = 'root'
 # end of MySQL database configure setting
